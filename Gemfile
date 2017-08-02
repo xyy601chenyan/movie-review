@@ -37,6 +37,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise', '~> 4.3'
 gem 'paperclip', '~> 5.1'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'searchkick', '~> 2.3', '>= 2.3.1'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
